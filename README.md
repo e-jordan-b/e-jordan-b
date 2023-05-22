@@ -13,7 +13,7 @@
   </div>
  
  <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
@@ -24,13 +24,9 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-jordan-bernardo/)
+- :telescope: I'm always eager to explore and learn new things in the world of technology. I find immense joy in constantly challenging myself and expanding my knowledge.
+- :zap: During my free time, you can find me engaging in sports activities and immersing myself in captivating articles about the latest advancements in technology.
+- :mailbox:If you'd like to connect with me, feel free to reach out to me through my LinkedIn profile. Let's connect and share our passion for technology! [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-jordan-bernardo/)
 
 ### :hammer_and_wrench: Languages and Tools :\
 <div>
@@ -49,4 +45,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
      <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket" alt="Socket" width="40" height="40"/>&nbsp;
   </div>
   
-  ### :fire: My Stats :
